@@ -9,3 +9,6 @@
 2024-09-24 16:52:36,358 - INFO - Model training completed.
 2024-09-24 16:53:17,382 - INFO - Validation MSE: 2177680.413291396
 2024-09-24 17:00:54,633 - INFO - Split data into training and validation sets.
+2024-09-24 17:46:43,702 - INFO - Split data into training and validation sets.
+2024-09-24 18:31:21,924 - INFO - Model training completed.
+2024-09-24 18:31:47,520 - INFO - Validation MSE: 2177680.413291396
